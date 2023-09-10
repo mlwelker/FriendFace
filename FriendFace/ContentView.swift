@@ -1,9 +1,3 @@
-//
-//  ContentView.swift
-//  FriendFace
-//
-//  Created by Michael Welker on 2023-09-09.
-//
 
 import SwiftUI
 
