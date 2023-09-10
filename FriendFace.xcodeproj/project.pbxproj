@@ -11,6 +11,9 @@
 		A299104C2AAD82BB0067F0BF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A299104B2AAD82BB0067F0BF /* ContentView.swift */; };
 		A299104E2AAD82BD0067F0BF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A299104D2AAD82BD0067F0BF /* Assets.xcassets */; };
 		A29910512AAD82BD0067F0BF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A29910502AAD82BD0067F0BF /* Preview Assets.xcassets */; };
+		A2D4E9152AADF9B400F3B6D6 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D4E9142AADF9B400F3B6D6 /* User.swift */; };
+		A2D4E9172AADF9C800F3B6D6 /* Friend.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D4E9162AADF9C800F3B6D6 /* Friend.swift */; };
+		A2D4E9192AAE55DB00F3B6D6 /* UserView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D4E9182AAE55DB00F3B6D6 /* UserView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +22,9 @@
 		A299104B2AAD82BB0067F0BF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A299104D2AAD82BD0067F0BF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A29910502AAD82BD0067F0BF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A2D4E9142AADF9B400F3B6D6 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		A2D4E9162AADF9C800F3B6D6 /* Friend.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Friend.swift; sourceTree = "<group>"; };
+		A2D4E9182AAE55DB00F3B6D6 /* UserView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +59,9 @@
 			children = (
 				A29910492AAD82BB0067F0BF /* FriendFaceApp.swift */,
 				A299104B2AAD82BB0067F0BF /* ContentView.swift */,
+				A2D4E9182AAE55DB00F3B6D6 /* UserView.swift */,
+				A2D4E9142AADF9B400F3B6D6 /* User.swift */,
+				A2D4E9162AADF9C800F3B6D6 /* Friend.swift */,
 				A299104D2AAD82BD0067F0BF /* Assets.xcassets */,
 				A299104F2AAD82BD0067F0BF /* Preview Content */,
 			);
@@ -139,6 +148,9 @@
 			files = (
 				A299104C2AAD82BB0067F0BF /* ContentView.swift in Sources */,
 				A299104A2AAD82BB0067F0BF /* FriendFaceApp.swift in Sources */,
+				A2D4E9192AAE55DB00F3B6D6 /* UserView.swift in Sources */,
+				A2D4E9152AADF9B400F3B6D6 /* User.swift in Sources */,
+				A2D4E9172AADF9C800F3B6D6 /* Friend.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
